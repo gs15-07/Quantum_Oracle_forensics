@@ -61,5 +61,5 @@ Before submitting:
 ## AI-use disclosure
 
 AI assistance was used to draft and review parts of the code and documentation.
-The team must independently execute, inspect, validate, and disclose the final
+The team independently executed, inspected, validated, and disclosed the final
 implementation according to the event's rules.
